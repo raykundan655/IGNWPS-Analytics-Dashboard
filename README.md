@@ -1,8 +1,10 @@
 📌 Project Overview
+
 This project showcases a Power BI dashboard I built to analyze the Indira Gandhi National Widow Pension Scheme. My aim was to take raw beneficiary data and turn it into insights that actually make sense—insights that could support better decisions and help understand how the scheme is performing across the country.
 The dashboard highlights beneficiary trends, demographic patterns, Aadhaar/mobile registration coverage, and differences in performance across states.
 
 🎯 Objectives
+
 Create an interactive dashboard that clearly shows how the scheme is performing across India
 
 Study yearly and quarterly beneficiary registrations
@@ -34,6 +36,7 @@ State-wise beneficiary distribution
 Aadhaar vs mobile number registration coverage
 
 📈 Insights Generated
+
 Identified states with the highest number of beneficiaries
 
 Noticed gaps between Aadhaar and mobile registrations
@@ -45,6 +48,7 @@ Category-wise insights helped highlight demographic trends and focus areas
 Map visuals made it easier to spot regions needing stronger outreach or support
 
 🛠 Tools & Technologies
+
 Power BI
 
 DAX
@@ -66,6 +70,7 @@ screenshots/ – Dashboard visuals
 README.md – Documentation
 
 🚀 How to Use
+
 Download or clone this repository
 
 Open indira gandhi national widow pension schema.pbix in Power BI Desktop
@@ -76,6 +81,7 @@ Explore the pages, visuals, and insights at your own pace
 
 
 📌 Project Outcome
+
 This dashboard gives a complete picture of how the scheme is performing. It helps in understanding:
 
 Beneficiary coverage
@@ -89,6 +95,7 @@ State-wise variations that matter for policy decisions
 Overall, it makes the data easier to interpret and supports more informed planning in social welfare programs.
 
 🤝 Contribution
+
 Feel free to contribute! Open an issue or submit a pull request if you’d like to improve or extend the project.
 
 📧 Contact
